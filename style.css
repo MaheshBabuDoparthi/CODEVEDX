@@ -1,0 +1,68 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+    color: #333;
+}
+
+/* Header */
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+h2 {
+    color: #0066cc;
+}
+
+/* Paragraph */
+p{
+    font-size:18px;
+    line-height:1.6;
+    text-align:justify;
+}
+
+/* Profile Image */
+img{
+    display:block;
+    margin:auto;
+    width:180px;
+    border-radius:50%;
+    border:3px solid #0066cc;
+}
+
+/* Skills & Projects */
+ul,
+ol {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Resume Button */
+a{
+    text-decoration:none;
+    background-color:darkblue;
+    color:white;
+    padding:10px 20px;
+    border-radius:5px;
+    display:inline-block;
+    margin-bottom:20px;
+}
+
+a:hover {
+    background-color: blue;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px;
+    background-color: darkblue;
+    color: white;
+}
+.resume{
+    text-align:center;
+}
